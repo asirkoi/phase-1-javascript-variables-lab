@@ -1,2 +1,3 @@
-let companyName = "Scuber";
-const football = 'Ronaldo'
+const companyName = 'Scuber';
+let mostProfitableNeighborhood = 'Chelsea';
+let companyCeo = 'Susan Smith';
